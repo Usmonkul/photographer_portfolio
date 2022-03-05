@@ -25,7 +25,8 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  font-family: "Arial", sans-serif;
+  font-family: "Roboto", sans-serif;
+  /* font-family: 'Source Serif Pro', serif; */
   background-color: #fff;
 }
 
@@ -45,10 +46,9 @@ img {
   overflow: hidden;
 }
 
-
 /* CONTAINER */
 .container {
-  max-width: 900px;
+  max-width: 1200px;
   padding-left: 50px;
   padding-right: 50px;
   margin-left: auto;
